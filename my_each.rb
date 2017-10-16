@@ -11,5 +11,5 @@ end
 end
 
 my_each([]) do |y|
-  puts y
+  print y
 end
