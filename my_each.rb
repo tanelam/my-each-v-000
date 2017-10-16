@@ -7,8 +7,6 @@ def my_each(array) # put argument(s) here
       x += 1
     end
     array
-  else
-    puts "There's no block!"
 end
 end
 
