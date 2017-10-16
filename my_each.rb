@@ -6,6 +6,7 @@ def my_each(array) # put argument(s) here
     yield([])
     x += 1
   end
+  array
 end
 
 my_each([]) do |y|
